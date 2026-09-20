@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "description": "Learn the basics of React components and state.",
+    "category": "React",
+    "date": "Sep 15, 2026",
+    "readTime": "4 min read"
+  },
+  {
+    "id": 2,
+    "title": "Understanding CSS Flexbox",
+    "description": "Learn how to create flexible layouts using CSS Flexbox.",
+    "category": "CSS",
+    "date": "Sep 12, 2026",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6 Fundamentals",
+    "description": "Learn modern JavaScript features and syntax.",
+    "category": "JavaScript",
+    "date": "Sep 08, 2026",
+    "readTime": "6 min read"
+  },
+  {
+    "id": 4,
+    "title": "Responsive Web Design",
+    "description": "Learn how to build websites for desktop, tablet and mobile.",
+    "category": "CSS",
+    "date": "Sep 04, 2026",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 5,
+    "title": "Semantic HTML5 Architecture",
+    "description": "Master clean document structure using semantic elements for accessibility and SEO.",
+    "category": "HTML",
+    "date": "Aug 29, 2026",
+    "readTime": "3 min read"
+  },
+  {
+    "id": 6,
+    "title": "Mastering React Props and Events",
+    "description": "A deep dive into unidirectional data flow, custom event handlers, and lifting state up.",
+    "category": "React",
+    "date": "Aug 25, 2026",
+    "readTime": "5 min read"
+  }
+]
